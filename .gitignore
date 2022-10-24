@@ -1,0 +1,6 @@
+/.idea/
+/target/
+*.xml
+/src/main/resources/
+/src/test/
+/src/test/

@@ -7,6 +7,6 @@ public class Average_1 {
         int number1 = numbers.nextInt();
         System.out.println("Input number 2");
         int number2 = numbers.nextInt();
-        System.out.println("An average of your numbers: "+(number2+number1)/2);
+        System.out.println("An average of your numbers: " + (number2 + number1) / 2);
     }
 }
